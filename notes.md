@@ -23,3 +23,6 @@
 
     ##Instalação JWT
     yarn add jsonwebtoken
+
+    ##Instalação do Yup para validações de campos
+    yarn add Yup
